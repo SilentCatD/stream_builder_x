@@ -11,6 +11,8 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages). 
 -->
 
+[![pub package](https://img.shields.io/pub/v/stream_builder_x?color=green&include_prereleases&style=plastic)](https://pub.dev/packages/stream_builder_x)
+
 Simple wrapper around StreamBuilder for selectively rebuild, optimize rebuild operations of widgets.
 
 ## Usage

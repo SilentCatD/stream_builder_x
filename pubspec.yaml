@@ -1,6 +1,6 @@
 name: stream_builder_x
 description: Simple wrapper around StreamBuilder for selectively rebuild, optimize rebuild operations of widgets.
-version: 1.0.0
+version: 1.0.0+1
 homepage: https://github.com/SilentCatD/stream_builder_x
 
 environment:
