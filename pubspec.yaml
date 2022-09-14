@@ -1,5 +1,5 @@
 name: stream_builder_x
-description: A new Flutter project.
+description: Simple wrapper around StreamBuilder for selectively rebuild, optimize rebuild operations of widgets.
 version: 1.0.0
 homepage: https://github.com/SilentCatD/stream_builder_x
 
